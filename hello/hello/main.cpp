@@ -1,9 +1,13 @@
 #include <iostream>
+#include "hello.h"
 
 using namespace std;
 
 int main(){
-	cout << "Hello World!" << endl;
-	cout << "GitHubtest" << endl;
+	
+	hello HW;
+
+	HW.printHello();
+
 	return 0;
 }
