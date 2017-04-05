@@ -5,5 +5,6 @@ public:
 	hello();
 	~hello();
 	void printHello();
+	void printSmallHello();
 };
 

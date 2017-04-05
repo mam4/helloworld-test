@@ -16,3 +16,7 @@ hello::~hello()
 void hello::printHello(){
 	cout << "HELLO WORLD!" << endl;
 }
+
+void hello::printSmallHello(){
+	cout << "hello world." << endl;
+}

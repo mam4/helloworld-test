@@ -8,6 +8,7 @@ int main(){
 	hello HW;
 
 	HW.printHello();
+	HW.printSmallHello();
 
 	return 0;
 }
